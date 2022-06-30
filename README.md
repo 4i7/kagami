@@ -39,10 +39,3 @@ current *kagami* works good with: FFXIV patch `6.0`
 
 - theme customization
 
-## contact💬
-
-- discord `ram#5923` (japanese, english, korean)
-- fork by discord `sgosiaco#4118`
-- or make [issue](https://github.com/sgosiaco/kagami/issues) in this repository
-- any PRs are welcome, especially:
-  - DE, FR language
