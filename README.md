@@ -34,8 +34,3 @@ current *kagami* works good with: FFXIV patch `6.0`
   (you have to re-summon your pet after launch *kagami*😥)
 - item, mount icons are coming out later than expected timing
 - bug on pet action validation when hitting low-level striking dummies(see [#8](https://github.com/ramram1048/kagami/issues/8))
-
-## upcoming features⚡
-
-- theme customization
-
